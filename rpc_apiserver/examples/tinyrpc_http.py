@@ -14,3 +14,6 @@ pong = rpc_server.ping()
 print "ping response: " + pong
 resp = rpc_server.hello("Ashutosh")
 print "hello world response: " + resp
+print "Get list of files"
+resp = rpc_server.list_processes()
+print "List: ",resp
