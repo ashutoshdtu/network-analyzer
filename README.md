@@ -6,7 +6,7 @@ Network Analyzer
 Clone the repository and go to its root folder and run:
 
 ```
-pip install -e .
+sudo pip install -e .
 ```
 
 # Run Server
