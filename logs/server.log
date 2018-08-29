@@ -1,0 +1,38 @@
+2018-08-29 21:01:32,191 - rpc_apiserver- INFO - File: __init__.py - <module>() - Line: 10 -  Loaded rpc_apiserver
+2018-08-29 21:01:33,415 - rpc_apiserver.core- INFO - File: __init__.py - <module>() - Line: 3 -  Loaded rpc_apiserver.core
+2018-08-29 21:01:33,424 - rpc_apiserver.core.function_mapper- INFO - File: function_mapper.py - <module>() - Line: 3 -  Loaded rpc_apiserver.core.function_mapper
+2018-08-29 21:01:33,426 - rpc_apiserver.core.utils- INFO - File: utils.py - <module>() - Line: 3 -  Loaded rpc_apiserver.core.utils
+2018-08-29 21:01:33,871 - rpc_apiserver.controllers- INFO - File: __init__.py - <module>() - Line: 3 -  Loaded rpc_apiserver.controllers
+2018-08-29 21:01:33,872 - rpc_apiserver.controllers.processes- INFO - File: processes.py - <module>() - Line: 3 -  Loaded rpc_apiserver.controllers.processes
+2018-08-29 21:01:33,873 - rpc_apiserver.server- INFO - File: server.py - <module>() - Line: 3 -  Loaded rpc_apiserver.server
+2018-08-29 21:01:33,874 - __main__- INFO - File: __main__.py - <module>() - Line: 3 -  Loaded __main__
+2018-08-29 21:01:33,875 - werkzeug- INFO - File: _internal.py - _log() - Line: 88 -   * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-08-29 21:02:58,550 - jsonrpcserver.dispatcher.request- INFO - File: log.py - log() - Line: 65 -  {"jsonrpc": "2.0", "method": "ping", "id": 1}
+2018-08-29 21:02:58,552 - rpc_apiserver.server- INFO - File: server.py - ping() - Line: 11 -  Inside Ping Pong
+2018-08-29 21:02:58,552 - jsonrpcserver.dispatcher.response- INFO - File: log.py - log() - Line: 65 -  {"jsonrpc": "2.0", "result": "pong", "id": 1}
+2018-08-29 21:02:58,552 - werkzeug- INFO - File: _internal.py - _log() - Line: 88 -  127.0.0.1 - - [29/Aug/2018 21:02:58] "[37mPOST /v1/jsonrpc HTTP/1.1[0m" 200 -
+2018-08-29 21:02:58,560 - jsonrpcserver.dispatcher.request- INFO - File: log.py - log() - Line: 65 -  {"params": ["Ashutosh"], "jsonrpc": "2.0", "method": "hello", "id": 2}
+2018-08-29 21:02:58,561 - jsonrpcserver.dispatcher.response- INFO - File: log.py - log() - Line: 65 -  {"jsonrpc": "2.0", "result": "Hello Ashutosh", "id": 2}
+2018-08-29 21:02:58,562 - werkzeug- INFO - File: _internal.py - _log() - Line: 88 -  127.0.0.1 - - [29/Aug/2018 21:02:58] "[37mPOST /v1/jsonrpc HTTP/1.1[0m" 200 -
+2018-08-29 21:16:34,446 - rpc_apiserver- INFO - File: __init__.py - <module>() - Line: 10 -  Loaded rpc_apiserver
+2018-08-29 21:16:34,669 - rpc_apiserver.core- INFO - File: __init__.py - <module>() - Line: 3 -  Loaded rpc_apiserver.core
+2018-08-29 21:16:34,670 - rpc_apiserver.core.function_mapper- INFO - File: function_mapper.py - <module>() - Line: 3 -  Loaded rpc_apiserver.core.function_mapper
+2018-08-29 21:16:34,671 - rpc_apiserver.core.utils- INFO - File: utils.py - <module>() - Line: 3 -  Loaded rpc_apiserver.core.utils
+2018-08-29 21:16:34,736 - rpc_apiserver.controllers- INFO - File: __init__.py - <module>() - Line: 3 -  Loaded rpc_apiserver.controllers
+2018-08-29 21:16:34,737 - rpc_apiserver.controllers.processes- INFO - File: processes.py - <module>() - Line: 3 -  Loaded rpc_apiserver.controllers.processes
+2018-08-29 21:16:34,738 - rpc_apiserver.server- INFO - File: server.py - <module>() - Line: 3 -  Loaded rpc_apiserver.server
+2018-08-29 21:16:34,738 - __main__- INFO - File: __main__.py - <module>() - Line: 3 -  Loaded __main__
+2018-08-29 21:16:34,742 - werkzeug- INFO - File: _internal.py - _log() - Line: 88 -   * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-08-29 21:16:43,327 - socketio_server- INFO - File: __init__.py - <module>() - Line: 10 -  Loaded socketio_server
+2018-08-29 21:16:43,329 - rpc_apiserver- INFO - File: __init__.py - <module>() - Line: 10 -  Loaded rpc_apiserver
+2018-08-29 21:16:43,549 - rpc_apiserver.core- INFO - File: __init__.py - <module>() - Line: 3 -  Loaded rpc_apiserver.core
+2018-08-29 21:16:43,550 - rpc_apiserver.core.function_mapper- INFO - File: function_mapper.py - <module>() - Line: 3 -  Loaded rpc_apiserver.core.function_mapper
+2018-08-29 21:16:43,550 - rpc_apiserver.core.utils- INFO - File: utils.py - <module>() - Line: 3 -  Loaded rpc_apiserver.core.utils
+2018-08-29 21:16:43,600 - rpc_apiserver.controllers- INFO - File: __init__.py - <module>() - Line: 3 -  Loaded rpc_apiserver.controllers
+2018-08-29 21:16:43,601 - rpc_apiserver.controllers.processes- INFO - File: processes.py - <module>() - Line: 3 -  Loaded rpc_apiserver.controllers.processes
+2018-08-29 21:16:43,601 - rpc_apiserver.server- INFO - File: server.py - <module>() - Line: 3 -  Loaded rpc_apiserver.server
+2018-08-29 21:16:43,757 - engineio- INFO - File: server.py - __init__() - Line: 133 -  Server initialized for threading.
+2018-08-29 21:16:43,759 - socketio_server.server- INFO - File: server.py - <module>() - Line: 3 -  Loaded socketio_server.server
+2018-08-29 21:16:43,759 - __main__- INFO - File: __main__.py - <module>() - Line: 3 -  Loaded __main__
+2018-08-29 21:16:43,773 - werkzeug- WARNING - File: _internal.py - _log() - Line: 88 -  WebSocket transport not available. Install eventlet or gevent and gevent-websocket for improved performance.
+2018-08-29 21:16:43,775 - werkzeug- INFO - File: _internal.py - _log() - Line: 88 -   * Running on http://127.0.0.1:5050/ (Press CTRL+C to quit)
