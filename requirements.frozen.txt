@@ -218,7 +218,7 @@ web.py==0.38
 WebOb==1.7.4
 websocket-client==0.48.0
 WebTest==2.0.29
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 wifi==0.3.8
 wrapt==1.10.11
 WTForms==2.1
