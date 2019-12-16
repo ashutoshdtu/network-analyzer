@@ -207,7 +207,7 @@ statsd==3.2.2
 subprocess32==3.5.2
 tablib==0.12.1
 tensorboard==1.8.0
-tensorflow==1.8.0
+tensorflow==1.15.0
 termcolor==1.1.0
 tinyrpc==0.9.3
 unicodecsv==0.14.1
