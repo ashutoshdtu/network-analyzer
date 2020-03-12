@@ -98,7 +98,7 @@ ply==3.11
 potsdb==1.0.3
 prometheus-client==0.3.1
 protobuf==3.5.2.post1
-psutil==5.4.6
+psutil==5.6.6
 py-cpuinfo==4.0.0
 pyasn1==0.3.7
 pycparser==2.18
