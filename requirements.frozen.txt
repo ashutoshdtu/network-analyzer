@@ -196,7 +196,7 @@ PyYAML==3.12
 pyzmq==17.1.2
 redis==2.10.6
 requests==2.18.4
-rsa==3.4.2
+rsa==4.1
 s3transfer==0.1.11
 scandir==1.9.0
 selenium==3.14.0
