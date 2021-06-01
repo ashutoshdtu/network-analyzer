@@ -211,7 +211,7 @@ tensorflow==1.8.0
 termcolor==1.1.0
 tinyrpc==0.9.3
 unicodecsv==0.14.1
-urllib3==1.22
+urllib3==1.26.5
 virtualenv==16.0.0
 waitress==1.1.0
 web.py==0.38
