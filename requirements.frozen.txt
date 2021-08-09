@@ -50,7 +50,7 @@ functionoptimizer==0.1.0
 functools32==3.2.3.post2
 futures==3.1.1
 gast==0.2.0
-Glances==2.11.1
+Glances==3.2.1
 grpcio==1.11.0
 gunicorn==19.9.0
 HermesCache==0.6.2
