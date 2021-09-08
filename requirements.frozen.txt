@@ -92,7 +92,7 @@ passgen==1.0.1
 pbkdf2==1.3
 pbr==4.0.2
 pika==0.12.0
-Pillow==5.0.0
+Pillow==8.3.2
 pipreqs==0.4.9
 ply==3.11
 potsdb==1.0.3
